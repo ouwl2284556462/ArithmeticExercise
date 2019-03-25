@@ -1,5 +1,6 @@
 package sort;
 
+//
 public class HeapSort extends Sorter {
 
 	@Override
